@@ -1,2 +1,15 @@
-# AI-Lab
-AI-Lab Questions
+# Artificial Intelligence Lab Programs Enjoy🏋🏼😀🦾
+## version: python 3.9.6 and dependencies in requirements.txt.
+1. [Write programs for Hangman (implementation of simple intelligent agent)](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P1Hangman.py)
+2. [Write programs for BFS.](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P2BFS.py)
+3. [Write programs for DFS.](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P2DFS.py)
+4. [Write programs for  A*.](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P3AStarAlgorithm.py)
+5. [Write programs for Greedy Best First](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P3BestFirstSearchAlgorithm.py)
+6. [Write programs for to demonstrate water jug (constraint satisfaction problem)](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P4WaterJugProblem.py)
+7. [Write programs for to demonstrate n-queen problem (constraint satisfaction problem)](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P4NqueenProblem.py)
+8. [Write programs simple chat bot (concepts knowledge representation systems)](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P5SimpleChatbot.py)
+9. [Write program for implementing Naive Bayes.](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P6NaiveBasedAlgorithm.py)
+10. [Write program for implementing Neural Networks for realization of AND, OR gates.](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P7NeuralNetworkAndOrGate.py)
+11. [Write program for implementing Backpropagation Learning. ](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P8BackPropagation_XOR_Gate.py)
+12. [Write program for implementing expert systems for covid prediction.](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P9covidPrediction.py)
+13. [Use library tools like NLTK to split the words of a sentence (illustrate concepts of Natural Language Processing)](https://github.com/bibekgupta3333/AI-Lab/blob/dev/P10NLP_Word_tokenize.py)
